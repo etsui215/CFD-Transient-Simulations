@@ -15,11 +15,11 @@ This study compares flow characteristics and nozzle performance between a conven
 
 As part of the project, two transient animations were generated to visually illustrate the transition of fluid flow from transient to steady-state conditions. The time step size was determined using the fluid domain dimensions and inlet parameters and was made small enough to ensure solution convergence within ~25 iterations. 
 <div align="center"> <video src="https://github.com/etsui215/CFD-Transient-Simulations/assets/107323771/7e07f034-08b0-4732-a889-ab7bed282817" controls="controls" style="max-width: 600px"> </video> </div>
-Transient animation of an 80% bell nozzle simulated at a chamber pressure of 300 psia and a sea-level exit pressure with LOX/RP-1 as propellant
+Transient animation of an 80% bell nozzle simulated at a chamber pressure of 300 psia and a sea-level exit pressure using LOX/RP-1
 <br>
 
 <div align="center"> <video src="https://github.com/etsui215/CFD-Transient-Simulations/assets/107323771/d28b21df-c78b-479d-a3e5-ac0f2739e1e1" controls="controls" style="max-width: 600px"> </video> </div>
-Transient animation of a conical aerospike nozzle simulated at a chamber pressure of 300 psia and a sea-level exit pressure with LOX/RP-1 as propellant
+Transient animation of a conical aerospike nozzle simulated at a chamber pressure of 300 psia and a sea-level exit pressure using LOX/RP-1
 
 
 
