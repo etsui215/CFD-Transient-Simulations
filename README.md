@@ -1,5 +1,5 @@
 # CFD-Transient-Simulations
-<p align="center">
+<p align="center" style="font-size: 32px;">
 <strong>Comparative Analysis of a Student-Scaled Bell Nozzle to a Conical Aerospike Nozzle</strong>
 </p>
 Abstract: <br>
