@@ -3,7 +3,7 @@
 <strong>Comparative Analysis of a Student-Scaled Bell Nozzle to a Conical Aerospike Nozzle</strong>
 </p>
 
-<p align="center";>
+<p align="center">
 <strong>Elliott Tsui</strong>
 <br>
 <i>Purdue University, West Lafayette, Indiana 47907</i>
