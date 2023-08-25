@@ -5,6 +5,7 @@
 
 <p align="center";>
 <strong>Elliott Tsui</strong>
+<br>
 <i>Purdue University, West Lafayette, Indiana 47907</i>
 </p>
 
