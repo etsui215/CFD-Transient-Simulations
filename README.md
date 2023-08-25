@@ -2,7 +2,7 @@
 <p align="center" style="font-size: 20px;">
 <strong>Comparative Analysis of a Student-Scaled Bell Nozzle to a Conical Aerospike Nozzle</strong>
 </p>
-https://github.com/etsui215/CFD-Transient-Simulations/blob/main/README.md
+
 <p align="center">
 <strong>Elliott Tsui</strong>
 <br>
